@@ -1,0 +1,19 @@
+mat-card {
+    width: 50%;
+    margin: 1rem auto;
+  }
+  
+  mat-form-field, button {
+    display: block;
+    width: 80%;
+    margin: auto;
+  }
+  
+  textarea {
+    height: 10rem;
+  }
+  
+  button {
+    width: auto;
+    margin-left: 10%;
+  }

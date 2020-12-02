@@ -1,0 +1,31 @@
+mat-card {
+    width: 50%;
+    margin: auto;
+    margin-top: 3rem;
+  }
+  
+  mat-list {
+    width: 100%;
+  }
+  
+  mat-list-item {
+    width: 100%;
+  }
+  
+  .list-item {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .edit {
+    margin-right: 1rem;
+  }
+  
+  .edit:hover {
+    color: green;
+  }
+  
+  .delete:hover {
+    color: red;
+  }
